@@ -21,7 +21,7 @@ can be stopped via the terminal. Likewise, if an error occurs in the terminal, i
 in the Cockpit journal interface.
 
 You can also easily add other machines that have Cockpit installed and are accessible via SSH and jump
-between these hosts.
+between these hosts..
 
 ### Development
 
