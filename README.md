@@ -14,7 +14,7 @@ You can [install Cockpit](https://cockpit-project.org/running.html) on many Linu
 systems including Debian, Fedora and RHEL.
 
 Cockpit makes Linux discoverable, allowing sysadmins to easily perform tasks such as starting
-containers, storage administration, network configuration, inspecting logs and so on.
+containers, storage administration, network configuration, inspecting logs and so on..
 
 Jumping between the terminal and the web tool is no problem. A service started via Cockpit
 can be stopped via the terminal. Likewise, if an error occurs in the terminal, it can be seen
